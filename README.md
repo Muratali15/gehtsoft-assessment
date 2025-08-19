@@ -29,7 +29,7 @@ This project is a console-based Java application that implements two main functi
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Muratali15/gehtsoft-assessment.git
    cd <repository_folder>
 2. **Compile:**
    ```bash
